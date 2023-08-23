@@ -1,6 +1,6 @@
 # {{cookiecutter.project_display_name}}
 
-This is a sample repository created from the cookiecutter template at {{cookiecutter._template}}. You can find more information about cookiecutter at https://www.cookiecutter.io/.
+This is a sample repository created from the cookiecutter template at "{{cookiecutter._template}}". You can find more information about cookiecutter at https://www.cookiecutter.io/.
 
 Cookiecutter templates are often used in combination with [cruft](https://cruft.github.io/cruft/) to track updates of the template in the downstream projects.
 
